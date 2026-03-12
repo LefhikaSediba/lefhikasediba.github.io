@@ -31,10 +31,11 @@ The website contains the following pages:
 
 You can view the live website here:
 
-https://yourusername.github.io/your-repository-name/
+https://github.com/LefhikaSediba/lefhikasediba.github.io.git
 
 ## Author
 
 Created by: Lefhika Aobakwe Sediba
 
 This project was created as part of learning web development and GitHub Pages.
+
